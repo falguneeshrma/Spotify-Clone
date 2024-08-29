@@ -5,7 +5,7 @@
 
 # Live Project : GitHub Page link
 <br/>
-falguneeshrma.github.io/Spotify-Clone/
+https://falguneeshrma.github.io/Spotify-Clone/
 
 # Description
 <br/>
