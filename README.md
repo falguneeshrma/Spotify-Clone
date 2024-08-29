@@ -3,6 +3,10 @@
 
 ![Spotify-Clone](https://github.com/user-attachments/assets/498bff44-bd78-46a3-87b8-09adb3bc865a)
 
+# Live Project : GitHub Page link
+<br/>
+falguneeshrma.github.io/Spotify-Clone/
+
 # Description
 <br/>
 The Spotify Clone project is a simple web application created to enhance my front-end development skills. It emulates the appearance and basic functionality of the Spotify music player using HTML and CSS.
